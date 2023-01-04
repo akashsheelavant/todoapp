@@ -1,6 +1,6 @@
 # A Todo app 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project displayes a list of Posts by calling an api, view the details of the post by clicking on the list and delete the post if they want.
 
 ## Available Scripts
 
